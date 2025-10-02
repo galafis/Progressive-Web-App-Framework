@@ -2,13 +2,19 @@
 
 ## English
 
+![Hero Image](assets/hero-image.jpg)
+
 ### 🚀 Overview
-Modern progressive web app framework with offline capabilities and native features
+Modern progressive web app framework with offline capabilities and native features.
 
 This project demonstrates professional JavaScript development skills with modern best practices, clean code architecture, and industry-standard implementations.
 
 ### 🛠️ Technology Stack
-JavaScript, PWA, Service Workers, IndexedDB, responsive design
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+JavaScript, PWA, Service Workers, IndexedDB, responsive design.
 
 ### ⚡ Features
 - Professional code architecture
@@ -17,6 +23,9 @@ JavaScript, PWA, Service Workers, IndexedDB, responsive design
 - Performance optimized
 - Well-documented codebase
 - Industry-standard patterns
+
+### 🏗️ Architecture Diagram
+![Architecture Diagram](assets/architecture_en.png)
 
 ### 🏃‍♂️ Quick Start
 
@@ -49,22 +58,13 @@ npm run build
 - Code reference and examples
 - Enterprise-grade implementations
 
-### 📊 Project Structure
-```
-Progressive-Web-App-Framework/
-├── README.md
-├── LICENSE
-├── index.html
-├── script.js
-├── style.css
-├── package.json
-└── assets/
-```
-
 ### 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 📄 License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 👨‍💻 Author
@@ -77,13 +77,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Português
 
-### 🚀 Visão Geral
-Modern progressive web app framework with offline capabilities and native features
+![Imagem Hero](assets/hero-image.jpg)
 
-Este projeto demonstra habilidades profissionais de desenvolvimento em JavaScript com práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+### 🚀 Visão Geral
+Framework moderno de Progressive Web App com capacidades offline e funcionalidades nativas.
+
+Este projeto demonstra habilidades profissionais de desenvolvimento JavaScript com as melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
 
 ### 🛠️ Stack Tecnológica
-JavaScript, PWA, Service Workers, IndexedDB, responsive design
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+JavaScript, PWA, Service Workers, IndexedDB, design responsivo.
 
 ### ⚡ Funcionalidades
 - Arquitetura de código profissional
@@ -92,6 +98,9 @@ JavaScript, PWA, Service Workers, IndexedDB, responsive design
 - Otimizado para performance
 - Base de código bem documentada
 - Padrões da indústria
+
+### 🏗️ Diagrama de Arquitetura
+![Diagrama de Arquitetura](assets/architecture_pt.png)
 
 ### 🏃‍♂️ Início Rápido
 
@@ -128,6 +137,9 @@ npm run build
 Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
 
 ### 📄 Licença
+
+![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
 ### 👨‍💻 Autor
@@ -139,3 +151,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ---
 
 ⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
+
