@@ -1,0 +1,21 @@
+{
+  "name": "progressive-web-app-framework",
+  "version": "1.0.0",
+  "description": "A modern progressive web app framework.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "jest"
+  },
+  "keywords": [
+    "pwa",
+    "javascript",
+    "framework"
+  ],
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.2"
+  }
+}
