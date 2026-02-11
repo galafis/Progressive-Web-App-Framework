@@ -11,8 +11,6 @@ This project demonstrates professional JavaScript development skills with modern
 
 ### 🛠️ Technology Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 JavaScript, PWA, Service Workers, IndexedDB, responsive design.
 
@@ -63,7 +61,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 📄 License
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -86,8 +83,6 @@ Este projeto demonstra habilidades profissionais de desenvolvimento JavaScript c
 
 ### 🛠️ Stack Tecnológica
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 JavaScript, PWA, Service Workers, IndexedDB, design responsivo.
 
@@ -138,7 +133,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request
 
 ### 📄 Licença
 
-![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
