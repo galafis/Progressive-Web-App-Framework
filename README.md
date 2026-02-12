@@ -1,148 +1,167 @@
-# Progressive-Web-App-Framework
+# 🚀 Progressive Web App Framework
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E.svg)](https://developer.mozilla.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[English](#english) | [Português](#português)
+
+---
 
 ## English
 
-![Hero Image](assets/hero-image.jpg)
+### 🎯 Overview
 
-### 🚀 Overview
-Modern progressive web app framework with offline capabilities and native features.
+**Progressive Web App Framework** — Professional repository showcasing advanced development skills
 
-This project demonstrates professional JavaScript development skills with modern best practices, clean code architecture, and industry-standard implementations.
+Total source lines: **204** across **2** files in **1** language.
 
-### 🛠️ Technology Stack
+### ✨ Key Features
+
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- Node.js 20+ and npm
 
 
-JavaScript, PWA, Service Workers, IndexedDB, responsive design.
+#### Installation
 
-### ⚡ Features
-- Professional code architecture
-- Modern development practices
-- Comprehensive error handling
-- Performance optimized
-- Well-documented codebase
-- Industry-standard patterns
-
-### 🏗️ Architecture Diagram
-![Architecture Diagram](assets/architecture_en.png)
-
-### 🏃‍♂️ Quick Start
-
+1. **Clone the repository**
 ```bash
-# Clone the repository
 git clone https://github.com/galafis/Progressive-Web-App-Framework.git
-
-# Navigate to project directory
 cd Progressive-Web-App-Framework
-
-# Follow language-specific setup instructions below
 ```
 
-### 📦 Installation & Setup
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Running
 
 ```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Build for production
-npm run build
+npm run dev
 ```
 
-### 🎯 Use Cases
-- Professional development portfolio
-- Learning modern JavaScript practices
-- Code reference and examples
-- Enterprise-grade implementations
 
-### 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+### 🧪 Testing
+
+```bash
+npm test
+```
+
+### 📁 Project Structure
+
+```
+Progressive-Web-App-Framework/
+├── assets/
+├── config/
+├── src/
+│   └── main.js
+├── tests/
+│   └── main.test.js
+├── README.md
+├── package-lock.json
+└── package.json
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| JavaScript | 2 files |
 
 ### 📄 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### 👤 Author
 
-### 👨‍💻 Author
 **Gabriel Demetrios Lafis**
-- Data Scientist & Engineer
-- Systems Developer & Analyst
-- Cybersecurity Specialist
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
 
 ---
 
 ## Português
 
-![Imagem Hero](assets/hero-image.jpg)
+### 🎯 Visão Geral
 
-### 🚀 Visão Geral
-Framework moderno de Progressive Web App com capacidades offline e funcionalidades nativas.
+**Progressive Web App Framework** — Professional repository showcasing advanced development skills
 
-Este projeto demonstra habilidades profissionais de desenvolvimento JavaScript com as melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+Total de linhas de código: **204** em **2** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Node.js 20+ e npm
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Progressive-Web-App-Framework.git
+cd Progressive-Web-App-Framework
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Execução
+
+```bash
+npm run dev
+```
+
+### 🧪 Testes
+
+```bash
+npm test
+```
+
+### 📁 Estrutura do Projeto
+
+```
+Progressive-Web-App-Framework/
+├── assets/
+├── config/
+├── src/
+│   └── main.js
+├── tests/
+│   └── main.test.js
+├── README.md
+├── package-lock.json
+└── package.json
+```
 
 ### 🛠️ Stack Tecnológica
 
-
-JavaScript, PWA, Service Workers, IndexedDB, design responsivo.
-
-### ⚡ Funcionalidades
-- Arquitetura de código profissional
-- Práticas modernas de desenvolvimento
-- Tratamento abrangente de erros
-- Otimizado para performance
-- Base de código bem documentada
-- Padrões da indústria
-
-### 🏗️ Diagrama de Arquitetura
-![Diagrama de Arquitetura](assets/architecture_pt.png)
-
-### 🏃‍♂️ Início Rápido
-
-```bash
-# Clone o repositório
-git clone https://github.com/galafis/Progressive-Web-App-Framework.git
-
-# Navegue para o diretório do projeto
-cd Progressive-Web-App-Framework
-
-# Siga as instruções de configuração específicas da linguagem abaixo
-```
-
-### 📦 Instalação e Configuração
-
-```bash
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm start
-
-# Construa para produção
-npm run build
-```
-
-### 🎯 Casos de Uso
-- Portfólio de desenvolvimento profissional
-- Aprendizado de práticas modernas em JavaScript
-- Referência de código e exemplos
-- Implementações de nível empresarial
-
-### 🤝 Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
+| Tecnologia | Uso |
+|------------|-----|
+| JavaScript | 2 files |
 
 ### 📄 Licença
 
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+### 👤 Autor
 
-### 👨‍💻 Autor
 **Gabriel Demetrios Lafis**
-- Cientista e Engenheiro de Dados
-- Desenvolvedor e Analista de Sistemas
-- Especialista em Segurança Cibernética
 
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
-
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
